@@ -1,0 +1,9 @@
+
+#DataBase
+.sqlite3
+
+#settings.py
+/aroma-stroy-react/backend/houses/houses/settings.py
+
+#media
+/aroma-stroy-react/backend/houses/media
